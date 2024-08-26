@@ -8,4 +8,4 @@ Welcome to the Machine Learning Studies repository! This repository is designed 
 - **`datasets`**: Stores datasets used in experiments and projects.
 - **`algorithms`**: Includes implementations and notes on different machine learning algorithms.
 - **`notes`**: A collection of notes, summaries, and insights on various machine learning topics.
-- **`syllabus/`**: Contains lecture syllabi, study plans, and structured learning paths.
+- **`syllabus`**: Contains lecture syllabi, study plans, and structured learning paths.
